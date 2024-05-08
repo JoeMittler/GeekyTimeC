@@ -12,7 +12,7 @@
         "configurable"
     ],
     "companyName": "mkorotkovas@yahoo.com",
-    "longName": "Geeky Time",
+    "longName": "Geeky Time Celsius",
     "projectType": "native",
     "resources": {
         "media": [
@@ -200,7 +200,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "GeekyTime",
+    "shortName": "GeekyTime Celsius",
     "targetPlatforms": [
         "aplite",
         "basalt"

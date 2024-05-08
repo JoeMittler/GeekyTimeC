@@ -1,5 +1,5 @@
 var initDone = false;
-var tempScale = 'F';
+var tempScale = 'C';
 var tempCorrect = 0;
 var btVibrate = 'On';
 var dateFormat = 'mmdd';
